@@ -40,8 +40,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lanzeg&show_icons=true&locale=en&layout=compact" alt="lanzeg" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanzeg&" alt="lanzeg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanzeg&" alt="lanzeg" />
+
 </p>
