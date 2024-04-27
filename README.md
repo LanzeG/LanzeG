@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanzeg&label=Profile%20views&color=0e75b6&style=flat" alt="lanzeg" /> </p>
 
-<div align="center" > <img src="cat.gif"  alt="wait mo yung cat" height="420"> </div>
+<!--  <div align="center" > <img src="cat.gif"  alt="wait mo yung cat" height="420"> </div> -->
 
 <p align="center">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanzeg&" alt="lanzeg" height="200" width="400"/> -->
