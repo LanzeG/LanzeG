@@ -11,17 +11,18 @@
   
 </div>
 <div align="center">
-    ### **<div align="center">I'm Lanze, an aspiring developer 👨‍💻</div>**  
+    <div align="center">###I'm Lanze, an aspiring developer 👨‍💻</div>
   
 
-- 🌘 I’m currently working on [STAMP (PHP Social media)](https://github.com/LanzeG/Stamp.git)  
+
+ </div>
+ - 🌘 I’m currently working on [STAMP (PHP Social media)](https://github.com/LanzeG/Stamp.git)  
   
 
 - 🌱 I’m currently learning Vue.js  
   
 
 <br/>  
- </div>
 </p>
 
 
