@@ -10,7 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LanzeG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
 </div>
-   ### **<div align="center">I'm Lanze, an aspiring developer 👨‍💻</div>**  
+<div align="center">
+    ### **<div align="center">I'm Lanze, an aspiring developer 👨‍💻</div>**  
   
 
 - 🌘 I’m currently working on [STAMP (PHP Social media)](https://github.com/LanzeG/Stamp.git)  
@@ -20,6 +21,7 @@
   
 
 <br/>  
+ </div>
 </p>
 
 
