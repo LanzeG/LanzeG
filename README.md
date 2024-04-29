@@ -1,20 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### **<div align="center">I'm Lanze, an aspiring developer 👨‍💻</div>**  
-  
-
-- 🌘 I’m currently working on [STAMP (PHP Social media)](https://github.com/LanzeG/Stamp.git)  
-  
-
-- 🌱 I’m currently learning Vue.js  
-  
-
-<br/>  
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanzeg&label=Profile%20views&color=0e75b6&style=flat" alt="lanzeg" /> </p>
 
@@ -30,7 +13,16 @@
    
 </p>
 
+### **<div align="center">I'm Lanze, an aspiring developer 👨‍💻</div>**  
+  
 
+- 🌘 I’m currently working on [STAMP (PHP Social media)](https://github.com/LanzeG/Stamp.git)  
+  
+
+- 🌱 I’m currently learning Vue.js  
+  
+
+<br/>  
 ## CONNECT WITH ME. 
 <div align="center">
 <a href="https://github.com/LanzeG" target="_blank">
