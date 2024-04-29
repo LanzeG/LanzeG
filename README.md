@@ -1,5 +1,6 @@
+### I'm Lanze, an aspiring developer 👨‍💻
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanzeg&label=Profile%20views&color=0e75b6&style=flat" alt="lanzeg" /> </p>  -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lanzeg&label=Profile%20views&color=0e75b6&style=flat" alt="lanzeg" /> </p>
 
 <!--  <div align="center" > <img src="cat.gif"  alt="wait mo yung cat" height="420"> </div> -->
 
@@ -11,7 +12,7 @@
   
 </div>
 
-### I'm Lanze, an aspiring developer 👨‍💻
+
   
 
 
