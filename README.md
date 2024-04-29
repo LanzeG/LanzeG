@@ -17,7 +17,7 @@
 
 
 
-<p align="center">🌘 I’m currently working on [STAMP (PHP Social media)](https://github.com/LanzeG/Stamp.git)  </p>
+
   
 
 <!-- - 🌱 I’m currently learning Vue.js  -->
